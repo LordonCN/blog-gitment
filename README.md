@@ -1,2 +1,2 @@
 # blog-gitment
-blog comment store
+blog comment store update
